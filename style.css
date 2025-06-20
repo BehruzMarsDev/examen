@@ -1,0 +1,57 @@
+.pp{
+    color: green;
+}
+
+
+.ttms{
+    background-color: blue;
+    text-align: center;
+}
+.hhs{
+    text-align: center;
+    background-color: yellowgreen
+}
+img{
+    width: 400px;
+}
+.hhg{
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+input{
+    width: 300px;
+}
+.ffs{
+    background-color: yellowgreen;
+    text-align: center ;
+}
+
+.red{
+    color: red;
+}
+
+table,
+tr,
+th,
+td{
+    border: 2px solid rgb(17, 16, 16);
+    border-collapse:collapse ;
+ }
+ table{
+    width: 100%;
+ }
+    .qq{
+    background-color: darkgreen;
+}
+.bb{
+    background-color:black;
+    color: aliceblue;
+}
+.ew{
+    background-color: red;
+    
+}
+.yy{
+    background-color: red;
+}
